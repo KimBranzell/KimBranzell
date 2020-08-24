@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2020 - 22 August, 2020
+Week: 16 August, 2020 - 23 August, 2020
 
 PHP               3 hrs 59 mins   ████████████░░░░░░░░░░░░░   47.61 % 
 JSON              1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
