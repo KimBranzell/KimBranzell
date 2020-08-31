@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2020 - 29 August, 2020
+Week: 23 August, 2020 - 30 August, 2020
 
 SCSS       22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 JSON       15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
