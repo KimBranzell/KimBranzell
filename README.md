@@ -14,7 +14,7 @@ My name is Kim Branzell, I'm a autodidact full-stack developer, currently workin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2020 - 30 November, 2020
+Week: 24 November, 2020 - 01 December, 2020
 
 JavaScript   4 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 PHP          1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
