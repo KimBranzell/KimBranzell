@@ -14,7 +14,7 @@ My name is Kim Branzell, I'm a autodidact full-stack developer, currently workin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 March, 2021 - 03 April, 2021
+Week: 28 March, 2021 - 04 April, 2021
 
 SCSS       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 JSON       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
