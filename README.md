@@ -2,7 +2,7 @@
 
 ### Greetings!
 
-My name is Kim Branzell, I'm a autodidact full-stack developer, currently working for **ID Kommunikation**, a Malmö based communications agency. I specialize in WordPress development, with a touch of whatever Javascript framework fits.
+My name is Kim Branzell, I'm a self-learned full-stack developer, currently working for [**ID Kommunikation**](https://idkommunikation.com/), a Malmö based communications agency. I specialize in WordPress development, with a touch of whatever Javascript framework fits.
 
 ### Weapons of choice
 
