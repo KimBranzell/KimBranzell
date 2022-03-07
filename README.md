@@ -15,7 +15,7 @@ My name is Kim Branzell, I'm a self-learned full-stack developer, currently work
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2022 - To: 05 March 2022
+From: 27 February 2022 - To: 06 March 2022
 
 JavaScript        2 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   36.97 %
 SCSS              1 hr 52 mins    ███████▓░░░░░░░░░░░░░░░░░   30.90 %
