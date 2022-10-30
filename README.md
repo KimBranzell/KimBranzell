@@ -15,14 +15,14 @@ My name is Kim Branzell, I'm a self-learned full-stack developer, currently work
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
+From: 21 October 2022 - To: 28 October 2022
 
-SCSS              3 hrs 10 mins   ████████████████▓░░░░░░░░   66.65 %
-PHP               59 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
-XML               16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-JavaScript        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-JSON              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Twig              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+SCSS         1 hr 53 mins    ██████████████░░░░░░░░░░░   56.25 %
+PHP          59 mins         ███████▒░░░░░░░░░░░░░░░░░   29.25 %
+XML          12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+JavaScript   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
