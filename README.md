@@ -2,7 +2,7 @@
 
 ### Greetings!
 
-My name is Kim Branzell, I'm a self-learned full-stack developer, currently working for [**Viva Media**](https://vivamedia.se/), one of Sweden's largest communications agency. I specialize in WordPress development, with a touch of whatever Javascript framework fits. I'm also passionate about web accessibility and sustainable web development.
+My name is Kim Branzell, I'm a self-learned full-stack developer, currently working for [**Viva Media**](https://vivamedia.se/), one of Sweden's largest communications agencies. I specialize in WordPress development, with a touch of whatever Javascript framework fits. I'm also passionate about web accessibility and sustainable web development.
 
 ### Weapons of choice
 
